@@ -1,0 +1,3 @@
+[submodule "jetstack-secure"]
+	path = jetstack-secure
+	url = https://github.com/jetstack/jetstack-secure.git
